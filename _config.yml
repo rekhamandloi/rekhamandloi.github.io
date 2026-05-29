@@ -1,0 +1,32 @@
+title: "Rekha Mandloi"
+description: "Hindi poet and writer"
+baseurl: ""
+url: "https://rekhamandloi.github.io"
+lang: "en"
+
+# Collections
+collections:
+  poems:
+    output: true
+    permalink: /poems/:name/
+  stories:
+    output: true
+    permalink: /stories/:name/
+
+# Defaults
+defaults:
+  - scope:
+      path: ""
+      type: "poems"
+    values:
+      layout: "poem"
+  - scope:
+      path: ""
+      type: "stories"
+    values:
+      layout: "story"
+
+# Build
+markdown: kramdown
+kramdown:
+  input: GFM
