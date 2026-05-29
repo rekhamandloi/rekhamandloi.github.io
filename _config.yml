@@ -30,3 +30,8 @@ defaults:
 markdown: kramdown
 kramdown:
   input: GFM
+
+# Prevent SCSS processing of plain CSS
+sass:
+  sass_dir: _sass
+  style: compressed
