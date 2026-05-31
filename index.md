@@ -4,7 +4,7 @@ title: Home
 ---
 
 <section class="home-hero">
-  <h1>Rekha Mandloi<br><span style="font-size:0.7em; font-weight:400;">रेखा मंडलोई</span></h1>
+  <h1>Dr. Rekha Mandloi<br><span style="font-size:0.7em; font-weight:400;">रेखा मंडलोई</span></h1>
   <p class="tagline">Hindi poet &amp; storyteller</p>
 
   <blockquote>
