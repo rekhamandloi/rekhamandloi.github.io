@@ -8,7 +8,7 @@ title: Home
   <p class="tagline">Hindi poet &amp; storyteller</p>
 
   <blockquote>
-    "Words are the breath of the soul — I write to remember what the heart already knows."
+    आधुनिक दौर में जहाँ हिन्दी के प्रति उपेक्षा का भाव बढ़ा है, वहीं आपने अपनी विशिष्ट और आत्मीय अध्यापन शैली से नई पीढ़ी के मानस में मातृभाषा के प्रति अटूट गौरव और सम्मान जगाने का भगीरथ प्रयास किया है।
   </blockquote>
 
   <div class="home-cta">
